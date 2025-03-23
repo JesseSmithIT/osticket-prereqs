@@ -239,4 +239,3 @@ Part 1 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 
 
 🎉Congratulations! You have installed osTicket successfully!🎉 You have completed the first part of this three-part osTicket Install/Configuration/Ticket-Creation tutorial series.
-- Click [here](https://github.com/RoslyndWilliams/osTicket--Post-Install-Configuration) to move on to Part 2 of this three-part tutorial series.
