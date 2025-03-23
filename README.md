@@ -29,7 +29,7 @@ Part 1 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 <p>
 <h3>Step 1: Connect to Your Virtual Machine with Remote Desktop</h3>
 
-- If you need help connecting to your virtual machine, please see my tutorial [here](https://github.com/RoslyndWilliams/Azure-Virtual-Machine-Creation)
+- If you need help connecting to your virtual machine.
 
 <h3>Step 2: Install and Enable Internet Information Services (IIS) in Windows</h3>
 
@@ -47,7 +47,7 @@ Part 1 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 <h3>Step 3: Download, Install, and Open the Web Platform Installer
 </h3>
 
-- osTicket Installation Files [link](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
+<!-- - osTicket Installation Files [link](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) -->
 	- Download Web Platform Installer > select Download Anyway > at the top right, select Open File
 	- Follow the prompt to install Web Platform Installer
 	- Open the Web Platform Installer
@@ -238,4 +238,4 @@ Part 1 of a three-part osTicket Install/Configuration/Ticket-Creation tutorial s
 </p>	
 
 
-🎉Congratulations! You have installed osTicket successfully!🎉 You have completed the first part of this three-part osTicket Install/Configuration/Ticket-Creation tutorial series.
+🎉Congratulations! You have installed osTicket successfully!.
